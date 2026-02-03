@@ -1,9 +1,3 @@
-#
-//  civitai_downloader.py
-//  comfyui_cvt_downloader
-//
-//  Created by humming on 4/2/2026.
-//
 import os
 import folder_paths
 import requests
