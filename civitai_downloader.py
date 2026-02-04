@@ -15,7 +15,7 @@ class CivitaiDownloader:
             "required": {
                 # Format: "name": ("TYPE", {"default": value, "min": min, "max": max})
                 "model_url": ("STRING", {"multiline": False, "default": "model_url",}),
-                "API_key" : ("STRING", {"multiline": False, "default": "",}),
+                "api_key" : ("STRING", {"multiline": False, "default": "",}),
                 
                 "save_dir": (models_folders,),
             },
